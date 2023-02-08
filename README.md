@@ -27,5 +27,6 @@ Idea 3: Encuentra Trabajo (sin nombre)
 Básicamente la diferencia que quiere esta aplicación marcar, es la eliminación de intermediarios como temporales, o agencias o redirecciones. Serán dos los usuarios; los aspirantes que contarán con un perfil muy sencillo de datos personales, una descripción profesional general; y los contratantes, que postearan los cargos o vacantes específicamente. No se subirán hojas de vida, ni se harán confirmaciones vía correo electrónico, será la ubicación o el enlace de entrevista, de una manera más objetiva y práctica que las apps actuales del mercado, con una actualización en tiempo real de los puestos ya ocupados, y un chat de generalidades entre las dos partes.
 
 Aplicaciones similares:
+
 Computrabajo
 beBee
